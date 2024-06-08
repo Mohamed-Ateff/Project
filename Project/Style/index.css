@@ -1,7 +1,7 @@
 @font-face {
   font-family: "MyFont";
-  src: url("../Font.ttf") format("woff"),
-    /* Modern browsers */ url("../Font.ttf") format("truetype"); /* Fallback for older browsers */
+  src: url("../Assests/Font.ttf") format("woff"),
+    /* Modern browsers */ url("../Assests/Font.ttf") format("truetype"); /* Fallback for older browsers */
 }
 * {
   font-family: "MyFont";
